@@ -23,4 +23,6 @@ git switch victor
 git checkout main (regresamos a la rama main)
 
 git merge victor (estando en la rama main, copia los cambios realizados en la rama victor hacia main)
+
+git push origin victor (sube una rama especifica al repositorio reoto)
 ```
