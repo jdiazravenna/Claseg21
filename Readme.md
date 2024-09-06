@@ -15,4 +15,11 @@ git push -u origin main
 
 git push origin main (solo se ejecuta una vez)
 git push
+
+git switch -c "el nombre de la rama" (crea una nueva rama)
+git branch (muestra las ramas existentes)
+ 
+git checkout main (regresamos a la rama main)
+
+git merge victor (estando en la rama main, copia los cambios realizados en la rama victor hacia main)
 ```
