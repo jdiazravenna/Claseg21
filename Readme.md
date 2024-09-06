@@ -18,7 +18,8 @@ git push
 
 git switch -c "el nombre de la rama" (crea una nueva rama)
 git branch (muestra las ramas existentes)
- 
+git switch victor
+
 git checkout main (regresamos a la rama main)
 
 git merge victor (estando en la rama main, copia los cambios realizados en la rama victor hacia main)
