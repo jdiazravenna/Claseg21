@@ -2,6 +2,12 @@
 
 ``` bash
 git status
-git add
 git commit
+git add index.html
+git add .
+git add -A
+git commit -m "mi mensaje"
+git log
+
+git branch -M main
 ```
